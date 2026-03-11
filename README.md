@@ -23,5 +23,7 @@ python3 export-books-annotations.py "they were"
 ```
 
 ### 开关
+
 --with-chapter 导出章节或位置信息
+
 --output-anki 导出anki卡片数据库（csv）
